@@ -1,3 +1,6 @@
+# Landin's formula in the tap 701-dev/tap:
+#   brew install 701-dev/tap/landin
+# scripts/bump-landin.py points it at a release.
 class Landin < Formula
   desc "Compiler for the Landin systems programming language"
   homepage "https://www.701.dev/"
